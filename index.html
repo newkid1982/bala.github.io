@@ -108,7 +108,7 @@
     </table>
     <br />
     <h1>my order table</h1>
-    <table border="1" cellpadding="10">
+    <table border="1" cellpadding="10" cellspacing="5">
       <thead>
         <tr>
           <th>#</th>
@@ -118,6 +118,8 @@
           <th>subtotal</th>
         </tr>
       </thead>
+      <br /><br />
+
       <tbody>
         <tr>
           <td>1</td>
@@ -150,6 +152,23 @@
           <td colspan="4">grand total</td>
         </tr>
       </tfoot>
+    </table>
+    <br /><br />
+    <h1>color table</h1>
+    <table border="1" cellpadding="10">
+      <tr>
+        <td style="background-color: yellow">col</td>
+        <td colspan="2" style="background-color: yellow">col</td>
+      </tr>
+      <tr>
+        <td style="background-color: orange">col</td>
+        <td rowspan="2" style="background-color: orange">col</td>
+        <td style="background-color: orange">col</td>
+      </tr>
+      <tr>
+        <td style="background-color: orchid">col</td>
+        <td style="background-color: orchid">col</td>
+      </tr>
     </table>
   </body>
 </html>
