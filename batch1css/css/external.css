@@ -1,0 +1,23 @@
+p{
+    color: blueviolet;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+h1{
+    color: skyblue;
+    text-transform: capitalize;
+}
+small{
+    color: tomato;
+    word-spacing: 20px;
+}
+a{
+    color: tomato;
+    text-decoration: none;
+}
+#id{
+    color: yellowgreen;
+}
+.id{
+    color: goldenrod;
+}
