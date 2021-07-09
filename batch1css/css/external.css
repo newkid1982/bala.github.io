@@ -11,13 +11,31 @@ small{
     color: tomato;
     word-spacing: 20px;
 }
-a{
-    color: tomato;
-    text-decoration: none;
-}
 #id{
     color: yellowgreen;
 }
 .id{
     color: goldenrod;
+}
+.desc a{
+    color: indianred;
+    text-decoration: none;
+}
+.chi > a{
+color: skyblue;
+text-decoration: none;
+}
+a:link{
+    color: slateblue;
+}
+a:hover{
+    color: springgreen;
+}
+a:visited{
+    color: teal;
+}
+:target{
+    color: tomato;
+    background-color: violet;
+    border: wheat;
 }
