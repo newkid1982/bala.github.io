@@ -119,7 +119,7 @@ div.grid_body .grid_four {
 .background_body_text {
   position: relative;
   width: 57%;
-  margin-top: 20px;
+  margin-top: 15px;
   float: right;
   color: white;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
@@ -130,7 +130,7 @@ div.grid_body .grid_four {
 }
 .background_body img {
   width: 497px;
-  height: 300px;
+  height: 400px;
   margin-left: 18px;
   margin-top: 20px;
   border-radius: 10px;
